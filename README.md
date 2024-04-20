@@ -2,7 +2,7 @@
 
 ![Imagen de Portada](img/romano.jpg) 
 
-## Descripción 
+## Descripción
 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
 
