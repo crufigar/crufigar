@@ -1,6 +1,7 @@
 # Título del Proyecto 
 
-![Imagen de Portada](img/romano.jpg) 
+![Imagen de Portada](recursos/gatito.jpg) 
+
 
 ## Descripción
 
