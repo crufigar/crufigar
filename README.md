@@ -1,4 +1,4 @@
-# Título del Proyecto 
+# Título del Proyecto de GBD
 
 ![Imagen de Portada](recursos/gatito.jpg) 
 
